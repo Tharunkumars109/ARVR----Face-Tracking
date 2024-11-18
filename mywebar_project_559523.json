@@ -1,0 +1,141 @@
+{
+  "objects": [
+    {
+      "id": -324471000,
+      "object_list_id": 8,
+      "caption_tooltip": "Color 0xffffff, Intensity 1",
+      "transform_pos_x": 3,
+      "transform_pos_y": 3,
+      "transform_pos_z": 0,
+      "transform_rot_x": 0,
+      "transform_rot_y": 0,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "Color": "0xffffff",
+        "Intensity": "1"
+      },
+      "created_at": "2024-11-07T15:36:29.000000Z",
+      "updated_at": "2024-11-07T15:36:29.000000Z",
+      "transform_scale_x": 1,
+      "transform_scale_y": 1,
+      "transform_scale_z": 1,
+      "visible": true,
+      "object_list_version_id": 5,
+      "caption": "object #3244710",
+      "behaviours": []
+    },
+    {
+      "id": -324471100,
+      "object_list_id": 12,
+      "caption_tooltip": "Color 0xffffff, Intensity 1",
+      "transform_pos_x": 0,
+      "transform_pos_y": 0,
+      "transform_pos_z": 0,
+      "transform_rot_x": 0,
+      "transform_rot_y": 0,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "Color": "0xffffff",
+        "Intensity": "1"
+      },
+      "created_at": "2024-11-07T15:36:29.000000Z",
+      "updated_at": "2024-11-07T15:36:29.000000Z",
+      "transform_scale_x": 1,
+      "transform_scale_y": 1,
+      "transform_scale_z": 1,
+      "visible": true,
+      "object_list_version_id": 9,
+      "caption": "object #3244711",
+      "behaviours": []
+    },
+    {
+      "id": -324488000,
+      "object_list_id": 2,
+      "caption_tooltip": "Hat.glb",
+      "transform_pos_x": -0.131,
+      "transform_pos_y": 0.658,
+      "transform_pos_z": -0.265,
+      "transform_rot_x": 0.104,
+      "transform_rot_y": 0,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "url": "https://mywebar-a.akamaihd.net/examples2022/Models/Fashion&Beauty/Hat.glb?hash=70c17c779773cddb2220386515ca15cd"
+      },
+      "created_at": "2024-11-07T16:03:03.000000Z",
+      "updated_at": "2024-11-07T16:07:04.000000Z",
+      "transform_scale_x": 2.936,
+      "transform_scale_y": 2.936,
+      "transform_scale_z": 2.936,
+      "visible": true,
+      "object_list_version_id": 2,
+      "caption": "object #3244880",
+      "behaviours": [
+        {
+          "id": 2149771,
+          "behaviour_list_id": 7,
+          "page_object_id": -324488000,
+          "source_page_object_id": -324488000,
+          "vars": {
+            "Index": "0",
+            "Loop": "1",
+            "Stop_animation_on_last_frame": "1",
+            "Delay": "0"
+          },
+          "created_at": "2024-11-07T16:03:03.000000Z",
+          "updated_at": "2024-11-07T16:03:03.000000Z"
+        }
+      ]
+    },
+    {
+      "id": -324489200,
+      "object_list_id": 2,
+      "caption_tooltip": "Sunglasses.glb",
+      "transform_pos_x": 0.006,
+      "transform_pos_y": 0,
+      "transform_pos_z": 0.349,
+      "transform_rot_x": 0,
+      "transform_rot_y": -1.468,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "url": "https://mywebar-a.akamaihd.net/examples2022/Models/Fashion&Beauty/Sunglasses.glb?hash=14671be65a2e2eecce2c1c3330705005"
+      },
+      "created_at": "2024-11-07T16:07:04.000000Z",
+      "updated_at": "2024-11-07T16:07:04.000000Z",
+      "transform_scale_x": 1,
+      "transform_scale_y": 1,
+      "transform_scale_z": 1,
+      "visible": true,
+      "object_list_version_id": 2,
+      "caption": "object #3244892",
+      "behaviours": [
+        {
+          "id": 2149776,
+          "behaviour_list_id": 7,
+          "page_object_id": -324489200,
+          "source_page_object_id": -324489200,
+          "vars": {
+            "Index": "0",
+            "Loop": "1",
+            "Stop_animation_on_last_frame": "1",
+            "Delay": "0"
+          },
+          "created_at": "2024-11-07T16:07:04.000000Z",
+          "updated_at": "2024-11-07T16:07:04.000000Z"
+        }
+      ]
+    }
+  ],
+  "isMywebarProject": true
+}
